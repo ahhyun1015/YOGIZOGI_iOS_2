@@ -1,2 +1,2 @@
-# GamSikE_iOS
-GamSikE_Team iOS
+# YOGIZOGI_iOS
+YOGIZOGI_Team iOS
